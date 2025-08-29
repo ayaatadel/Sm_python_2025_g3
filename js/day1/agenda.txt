@@ -1,0 +1,19 @@
+===> history of js   
+==> where we write code of js
+===> variables
+==> datatypes
+===> operators  // falsey values
+==> control flow
+===> ternarty operator
+==> looping
+===> communication with user
+
+
+/***
+pages ==> dynamic ==> active  ==> js ==> mocha ==> java script ==> Echma Script ===> Es6
+
+==? vs code 
+==> file(html : structure ) ==> write code 
+
+<script>
+</script>
